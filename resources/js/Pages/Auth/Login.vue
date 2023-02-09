@@ -4,7 +4,7 @@
       <!-- <logo class="block mx-auto w-full max-w-xs fill-white" height="50" /> -->
       <div class="flex justify-center mx-auto fill-white">
         <div class="h-8 italic text-white text-lg py-1 flex items-center">
-          <Icons name="logo" className="w-8 h-8 ltr:mr-2 rtl:ml-2 fill-gray-300 group-hover:fill-white" />
+          <!-- <Icons name="logo" className="w-8 h-8 ltr:mr-0 rtl:ml--3 fill-gray-300 group-hover:fill-white" /> -->
           <span class="font-extrabold">{{ $page.props.app_name }}</span>
         </div>
       </div>
