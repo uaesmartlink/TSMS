@@ -11,7 +11,7 @@
       viewBox="0 0 1300 1300"
       enable-background="new 0 0 1300 1300"
       xml:space="preserve">
-      <g id="Layer_1" class="st0">
+      <!-- <g id="Layer_1" class="st0">
         <g class="st1">
           <path class="st2" d="M61.8,67.7c-1.7,6.1-5.3,16.1-7.6,20.2c-3.8,0.9-15.3,3.7-25,3.7c-33.6,0-48.6-22.2-48.6-42.4
             c0-26.8,21.7-44.4,51.9-44.4c11.2,0,20.6,3,24.2,3.7c1,7.2,2,12.7,2.8,20l-3.9,0.9C52,15.1,43.3,9.6,29.1,9.6
@@ -48,7 +48,7 @@
       </g>
       <g id="Layer_2">
         <text transform="matrix(1 0 0 1 -9.765625e-04 90.2051)" class="st2 st3 st4">CL</text>
-      </g>
+      </g> -->
     </svg>
     <!-- <svg
       version="1.1"
